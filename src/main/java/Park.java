@@ -16,7 +16,7 @@ public class Park {
 
     private  int capacity ;
 
-    private Map<String,String> info= Maps.newHashMap();
+    private Map<String, String> info= Maps.newHashMap();
 
 
 
