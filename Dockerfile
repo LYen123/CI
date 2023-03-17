@@ -1,3 +1,3 @@
 FROM hub.c.163.com/housan993/centos7_jdk8:latest
-COPY demo-0.0.1-SNAPSHOT.jar /
-CMD java -jar demo-0.0.1-SNAPSHOT.jar
+COPY park-1.0-SNAPSHOT.jar /
+CMD java -jar park-1.0-SNAPSHOT.jar
